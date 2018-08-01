@@ -1,0 +1,30 @@
+{
+  "short_name": "LMV",
+  "name": "La Mancha Verde",
+  "background-color": "#55f465",
+  "theme_color": "#a8c9a7",
+  "display": "standalone",
+  "icons": [
+      {
+      "src": "./favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "./favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html"
+}
